@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.first_fon {
+    background-image: url(image/HG.png);
+    width: 100%;
+    height: 1513px;
+    margin-top: -313px;
+    background-repeat: no-repeat;
+}
+
+.second_fon {
+    background-image: url(image/BG\ Hero.png);
+    width: 100%;
+    height: 1200px;
+    margin: -1200px;
+    margin-left: 0%;
+    background-repeat: no-repeat;
+}
+
+.navigation_panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+.third_fon {
+    background-image: url(image/MG.png);
+    width: 100%;
+    height: 1422px;
+    margin-top: -100px;
+    background-repeat: no-repeat;
+}
+
+.fourth_fon {
+    background-image: url(image/VG.png);
+    width: 100%;
+    height: 926px;
+    margin-top: -1100px;
+    background-repeat: no-repeat;
+}
+
+.shadow_fon {
+
+    width: 100%;
+    height: 700px;
+    margin-top: -500px;
+    background-repeat: no-repeat;
+}
+
+.nav_panel {
+    color: white;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.nav_panel li {
+margin: 20PX;
+}
+.main_head{
+    font-size: 32px;
+    margin-left: 500px;
+    margin-top: 10%;
+    color: white;
+}
+.main_head ol{
+    margin: 30px;
+    font-size: 20px;
+}
+.vl {
+    border-radius: 2px;
+    border-left: 3px solid rgb(255, 255, 255);
+    height: 40px;
+}
+.vl1 {
+    border-radius: 2px;
+    border-left: 3px solid rgb(185, 184, 184);
+    height: 170px;
+}
+.nav_list{
+    margin-left: 1250px;
+    margin-top: -200px;
+    margin-right: auto;
+}
+.nav_line{
+    margin-left: 1350px;
+    margin-top: -220px;
+}
+.first_section{
+    background-color: #0B1D26;
+    height: 1200px;
+}
+.first_content{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -500px;
+    justify-content: space-between;
+}
+.first_container{
+    margin-top: 200px;
+    color: rgb(224, 221, 221);
+    margin-left: 10%;
+}
+.first_container h1{
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+.nb01{
+    margin-left: -150px;
+    margin-top: -100px;
+}
